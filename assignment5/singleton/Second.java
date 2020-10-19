@@ -1,4 +1,4 @@
-package assignments.assignment5;
+package assignments.assignment5.singleton;
 
 public class Second {
     String string;
